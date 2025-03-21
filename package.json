@@ -12,6 +12,7 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.7.0",
     "@types/youtube-captions-scraper": "^1.0.0",
+    "https-proxy-agent": "^7.0.6",
     "prettier": "^3.5.3",
     "youtube-captions-scraper": "^2.0.3"
   }
